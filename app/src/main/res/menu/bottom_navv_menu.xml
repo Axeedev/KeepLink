@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/item_folder"
+        android:title="@string/folder"
+        android:icon="@drawable/ic_folder"
+        />
+
+    <item android:id="@+id/item_notifications"
+        android:title="@string/notifications"
+        android:icon="@drawable/ic_notifications"
+        />
+    <item android:id="@+id/item_profile"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_person_light"
+        />
+    <item android:id="@+id/item_settings"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings"
+        />
+</menu>

@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">KeepLink</string>
+    <string name="profile">Profile</string>
+    <string name="notifications">Notifications</string>
+    <string name="folder">Folder</string>
+    <string name="settings">Settings</string>
+    <string name="null_">null</string>
+    <string name="l_">null_</string>
+    <string name="nulllol">null_</string>
+    <string name="pusto" />
+    <string name="nul">nul</string>
+    <string name="save">Сохранить</string>
+    <string name="close">Закрыть</string>
+    <string name="addcontact">Добавить контакт</string>
+    <string name="addPhoto">Добавить фото</string>
+    <string name="patronymic">Отчество</string>
+    <string name="lastname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="birthdate">Дата рождения</string>
+    <string name="age">Возраст</string>
+    <string name="context">Контекст знакомства</string>
+    <string name="purpose">Цель общения</string>
+    <string name="note">Заметка...</string>
+    <array name="Tags">
+        <item>Предпринимательство</item>
+        <item>Бизнес</item>
+        <item>Семья</item>
+        <item>Работа</item>
+        <item>Огород</item>
+        <item>Сад</item>
+        <item>Доставки</item>
+    </array>
 </resources>
